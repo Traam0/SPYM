@@ -1,0 +1,15 @@
+{
+  "text": "#130b0b",
+  "background": "#f5f5f5",
+  "primary": "#8abc8a",
+  "secondary": "#f4ecec",
+  "accent": "#6a6aa9",
+
+  "dark": {
+    "text": "#f4ecec",
+    "background": "#0a0a0a",
+    "primary": "#437543",
+    "secondary": "#130b0b",
+    "accent": "#565695"
+  }
+}
